@@ -1,2 +1,2 @@
 # science-quizzes
-A Codecademy Git exercise
+A Codecademy Git exercise for beginners.
